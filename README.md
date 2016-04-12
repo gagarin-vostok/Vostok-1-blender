@@ -1,5 +1,5 @@
-Voskot-1 in Blender (based in AC3D format).
+Vostok-1 in Blender (based on AC3D format from https://github.com/gagarin-vostok/FlightGearVostok-1/tree/master/Models).
 
-And demo Scene.
+And demo Scene:
 ![](Vostok-1-scene.jpg)
 
